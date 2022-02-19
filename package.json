@@ -1,6 +1,6 @@
 {
   "name": "@kz-ts/express-common",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common library for express",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
